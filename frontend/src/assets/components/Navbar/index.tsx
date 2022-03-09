@@ -1,8 +1,10 @@
 import {ReactComponent as GithubIcon} from 'assets/img/github.svg';
+import './styles.css';
 
-function App() {
-  return (
-    <header>
+function Navbar () {
+
+    return (
+<header>
     <nav className="container">
         <div className="dsmovie-nav-content">
             <h1>DSMovie</h1>
@@ -15,7 +17,7 @@ function App() {
         </div>
     </nav>
 </header>
-  );
+    )
 }
 
-export default App;
+export default Navbar;
