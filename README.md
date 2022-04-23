@@ -1,4 +1,4 @@
-# Big Game Survey 
+# DS MOVIE
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/gmmartin7/dsmovie/blob/main/LICENSE) 
 
 # Sobre o projeto
